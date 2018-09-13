@@ -1,6 +1,6 @@
 # README
 
-## Primeira versao da integracao com a Getnet
+Primeira versao da integracao com a Getnet
 
 # Linguagem
 * Node
