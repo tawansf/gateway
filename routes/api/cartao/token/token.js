@@ -8,8 +8,8 @@ cartaoRouter.post('/', (req, res, next) => {
     var headers = {
         'Accept': 'application/json',
         'Content-Type': 'application/json',
-        'Authorization': 'Bearer 1d431198-5c89-4f57-bfe0-aad232fecd9a',
-        'seller_id': '08780311-a9e4-4669-b511-3e58375f67c9'
+        'Authorization': 'Bearer {token_auth}',
+        'seller_id': 'sellerid'
     }
     var form = {
         'card_number': '4242424242424242',

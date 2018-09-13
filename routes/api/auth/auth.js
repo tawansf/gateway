@@ -12,7 +12,7 @@ authRouter.post('/', (req, res, next) => {
     var headers = {
         'Accept': 'application/json',
         'Content-Type': 'application/x-www-form-urlencoded',
-        'Authorization': 'Basic '+encoded
+        'Authorization': 'Basic {TOKEN AUTH}'
     }
     var form = {
         'scope': 'oob',

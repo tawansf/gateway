@@ -4,7 +4,7 @@ const requestToken = require('request')
 const { base64encode, base64decode } = require('nodejs-base64')
 
 exports.authToken = function () {
-    const he = 'a23548b2-55ff-4b45-8630-ada5e54c6412:620a87b2-116a-4ca1-8118-e3ad7e5d7e35';
+    const he = 'seller:clientid';
     const encoded = base64encode(he);
     var headers = {
         'Accept': 'application/json',
