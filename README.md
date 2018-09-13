@@ -7,3 +7,6 @@
 
 ## Desenvolvido por
 * Tawan Silva
+
+## Referencias
+[Boas praticas]: https://nodewebapps.com/2017/01/03/13-security-best-practices-for-your-web-application/
