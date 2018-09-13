@@ -1,12 +1,12 @@
 {
   "name": "getnet",
   "version": "1.0.0",
-  "description": "Financeiro SALUT",
+  "description": "Integração com a Getnet",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Digisaúde",
+  "author": "Tawan da Silva Ferreira",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.18.3",
